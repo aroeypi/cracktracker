@@ -1,0 +1,45 @@
+# Python 관련 파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+env3/
+.venv/
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+# PyTorch/YOLO 모델 파일
+*.pt
+*.pth
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.bak
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+
+# IDE 설정
+.vscode/
+.idea/
+
+# 데이터 및 출력
+data/
+runs/
+predicted_results/

@@ -52,3 +52,12 @@ predicted_results/
 *.gif
 *.tif
 *.tiff
+
+
+.txt
+
+# YOLO 관련 파일
+*.weights
+*.cfg
+*.names
+*.json

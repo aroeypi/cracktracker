@@ -43,3 +43,12 @@ Thumbs.db
 data/
 runs/
 predicted_results/
+
+# 이미지 파일 무시
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tif
+*.tiff

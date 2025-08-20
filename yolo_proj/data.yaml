@@ -1,7 +1,7 @@
 # train: ../dataset/train/images
-train: ../dataset/train_aug/images
-val: ../dataset/valid/images
-test: ../dataset/test/images
+train: ./dataset/train/images
+val: ./dataset/valid/images
+test: ./dataset/test/images
 
 nc: 1
 names: ['License_Plate']
